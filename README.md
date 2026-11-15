@@ -167,6 +167,8 @@ Write an 8086 assembly language program to exchange the contents of two
 5.  Stop the program.
 
 ### Assembly Program
+<img width="1917" height="896" alt="image" src="https://github.com/user-attachments/assets/dd1c2ac3-83f0-4eda-9249-a9e1d57a9715" />
+
 
  
 
