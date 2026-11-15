@@ -146,6 +146,8 @@ END MAIN
 AX. `MOV RESULT, BX` stores the contents of BX in the 16-bit memory
 variable `RESULT`. The `MOV` instruction does not modify the source
 operand.
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/addd04eb-71d4-41a4-818b-d3adf3f3a15f" />
+
 
 ------------------------------------------------------------------------
 
